@@ -1,3 +1,3 @@
 function cambiarFondo() {
-    document.getElementById("parrafo").style.backgroundColor = "#9f9fFF";
+    document.getElementById("parrafo").style.backgroundColor = "#ff9f9f";
 }
